@@ -1,2 +1,2 @@
 # Firstbank
-Hello waord!
+Hello world!
